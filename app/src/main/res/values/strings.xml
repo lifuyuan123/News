@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApps</string>
+    <string name="button"> </string>
+    <string name="新闻">新闻</string>
+    <string name="热点">热点</string>
+    <string name="搜索">搜索</string>
+</resources>
